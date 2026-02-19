@@ -15,16 +15,24 @@ urllib.parse
 # Extract
 # Step 2 : Reading from datasets
 We have reading four datasets listed below
+
 doctors
+
 patients
+
 medicines
+
 prescriptions
 
 # Transform
 # Step 3 : Data Cleaning
+
 While doing data cleaning , I was used all the methods.
+
 Removing dupicates by -- drop_duplicates() method.
+
 Handling missing values by -- fillna() method.
+
 Converted dates by -- to_datetime() method.
 
 # Load
