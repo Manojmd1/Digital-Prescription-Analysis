@@ -3,9 +3,13 @@ Digital-Prescription-Analysis is an ETL project using Python and MySQL. It extra
 
 # Step 1 : Installing Required Libraries
 pandas
+
 mysql.connector
+
 matplotlib
+
 sqlalchemy
+
 urllib.parse
 
 # Extract
