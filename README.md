@@ -182,29 +182,15 @@ Compares missing data levels before and after the cleaning process.
 ```bash
 Digital-Prescription-Analysis/
 │
-├── data/
+├── datasets/
 │   ├── doctors.csv
 │   ├── patients.csv
 │   ├── medicines.csv
 │   └── prescriptions.csv
 │
-├── notebooks/
-│   └── analysis.ipynb
+├── Development/
+│   └── P1-Project.ipynb
 │
-├── scripts/
-│   ├── extract.py
-│   ├── transform.py
-│   ├── load.py
-│   └── analysis.py
+
 │
-├── visuals/
-│   ├── top_medicines.png
-│   ├── doctor_volume.png
-│   ├── gender_distribution.png
-│   ├── age_group_analysis.png
-│   ├── outlier_detection.png
-│   ├── daily_trend.png
-│   └── missing_data_impact.png
-│
-├── requirements.txt
 └── README.md
