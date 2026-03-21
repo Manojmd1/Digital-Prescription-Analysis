@@ -191,6 +191,4 @@ Digital-Prescription-Analysis/
 ├── Development/
 │   └── P1-Project.ipynb
 │
-
-│
 └── README.md
